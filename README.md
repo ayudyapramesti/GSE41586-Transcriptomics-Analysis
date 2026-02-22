@@ -21,3 +21,17 @@ The analysis was conducted using a computational approach integrated within the 
   <br>
   <b>Figure 1:</b> Volcano Plot of Differential Gene Expression.
 </p>
+
+### Volcano Plot of Differential Gene Expression
+<p align="center">
+  <img src="top-50-DEGs-expression-patterns" width="800">
+  <br>
+  <b>Figure 2:</b> Heatmap of Top 50 Differentially Expressed Genes
+</p>
+
+### Functional Enrichment Analysis
+<p align="center">
+  <img src="top-50-DEGs-expression-patterns" width="800">
+  <br>
+  <b>Figure 3:</b> Gene Ontology (GO) Enrichment Analysis of DEGs. (A) Top 10 Biological Process terms for significantly upregulated genes, showing activation of host defense and cytokine responses. (B) Top 10 Biological Process terms for significantly downregulated genes, highlighting a decrease in translation and ribosomal biogenesis.
+</p>
