@@ -17,7 +17,7 @@ The analysis was conducted using a computational approach integrated within the 
 ## Analysis Results
 ### Volcano Plot of Differential Gene Expression
 <p align="center">
-  <img src="overview-defines-group" width="800">
+  <img src="volcano-plot" width="800">
   <br>
-  <b>Figure 1:</b> Overview of sample metadata and group definitions (Healthy vs Infected).
+  <b>Figure 1:</b> Volcano Plot of Differential Gene Expression.
 </p>
